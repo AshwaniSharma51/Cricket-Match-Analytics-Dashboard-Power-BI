@@ -20,7 +20,7 @@ Interactive filters for exploring matches across tournaments and opponents
 
 ### Data Processing
 
-Extracted data from a GraphQL API
+Extracted data from multiple GraphQL APIs
 
 Transformed nested JSON structures using Power Query (M)
 
