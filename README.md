@@ -38,4 +38,4 @@ DAX
 
 GraphQL API
 
-Data Modeling & Visualization
+Data Modeling and Visualization
